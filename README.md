@@ -1,8 +1,8 @@
 # Healthcare_provider_dashboard
+<img width="1541" height="864" alt="dark Darshboard image" src="https://github.com/user-attachments/assets/a64640fd-7085-40e6-aa4d-80904831597f" />
+<img width="1545" height="864" alt="Filter In Dashboard" src="https://github.com/user-attachments/assets/4aaf677e-12ec-4f4e-9aca-c06c9289ffe9" />
+<img width="1545" height="865" alt="light dashboard image" src="https://github.com/user-attachments/assets/c610172f-f78f-4caf-a972-350f6d043779" />
 
-C:\Users\jv621\OneDrive\Pictures\Screenshots
-C:\Users\jv621\OneDrive\Pictures\Screenshots
-C:\Users\jv621\OneDrive\Pictures\Screenshots
 
 This project is an Interactive Healthcare Provider Dashboard developed using Power BI to analyze hospital billing and healthcare service data. The dashboard helps visualize important financial and operational metrics, enabling better understanding of healthcare costs and service distribution.
 
